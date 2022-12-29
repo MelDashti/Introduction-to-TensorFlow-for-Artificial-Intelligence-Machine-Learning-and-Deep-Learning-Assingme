@@ -1,4 +1,4 @@
-# Introduction To TensorFlow 
+# Neural Networks With TensorFlow 
 
 In this repository, I have included every assignment I completed for the following two courses:
 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning. (4 weeks)
